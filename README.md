@@ -32,9 +32,9 @@ El objetivo es documentar la arquitectura del sistema y el módulo de compras co
 
 Las épicas e historias de usuario fueron creadas en Jira/Notion siguiendo el formato indicado en el taller.
 
-## 🧑‍🎓 Autores
+## 🧑‍🎓 Autor
 
-- Nombre del estudiante
+- Jairo Andres Barrios Clavijo
 
 ---
 
