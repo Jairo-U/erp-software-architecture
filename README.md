@@ -7,13 +7,13 @@ El objetivo es documentar la arquitectura del sistema y el módulo de compras co
 ## 📂 Contenido Principal
 
 - 📘 Documentación arc42  
-  docs/01_introduction_and_goals.md  
-  docs/02_architecture_constraints.md  
-  docs/03_system_scope_and_context.md  
-  docs/05_building_block_view.md  
-  docs/06_runtime_view.md  
-  docs/07_deployment_view.md  
-  docs/10_glossary.md  
+[Introducción y Objetivos](01_introduction_and_goals.md)
+[Restricciones de Arquitectura](02_architecture_constraints.md)
+[Alcance y Contexto del Sistema](03_system_scope_and_context.md)
+[Vista de Contenedores](05_building_block_view.md)
+[Vista de Ejecución](06_runtime_view.md)
+[Vista de Despliegue](07_deployment_view.md)
+[Glosario](10_glossary.md)
 
 - 📊 Diagramas  
 <img width="408" height="471" alt="Diagrama MER (Entidad-Relación)" src="https://github.com/user-attachments/assets/58f4dece-abc4-4c66-91ca-29a9f983dff1" />
